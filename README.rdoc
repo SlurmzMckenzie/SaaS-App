@@ -1,7 +1,8 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Coder Manual project
+subscription based web app
+https://calm-atoll-7054.herokuapp.com/
 
 Things you may want to cover:
 
