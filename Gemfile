@@ -15,8 +15,12 @@ gem 'bootstrap-sass', '3.3.1'
 <<<<<<< HEAD
 =======
 # UseFont Awesome Gem
+<<<<<<< HEAD
 gem 'font-awesome-sass'
 >>>>>>> origin/master
+=======
+gem 'font-awesome-sass', '4.2.0'
+>>>>>>> 072b3d58b9bb3046fdb04a1c9711272f840b49f9
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.3'
 # Use Uglifier as compressor for JavaScript assets
