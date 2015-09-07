@@ -56,13 +56,8 @@ GEM
     mime-types (2.6.1)
     minitest (5.8.0)
     multi_json (1.11.2)
-<<<<<<< HEAD
-    pg (0.18.3-x64-mingw32)
-    pg (0.18.3-x86-mingw32)
-=======
     pg (0.18.2-x64-mingw32)
     pg (0.18.2-x86-mingw32)
->>>>>>> origin/master
     rack (1.5.5)
     rack-test (0.6.3)
       rack (>= 1.0)
