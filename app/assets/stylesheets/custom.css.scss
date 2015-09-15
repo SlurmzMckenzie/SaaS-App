@@ -4,10 +4,8 @@
 @import "font-awesome-sprockets";
 @import "font-awesome";
 
-.flex {
-	display: inline-flex;
-}
-
-.align-bottom {
-	vertical-align: bottom;
+.alert-notice {
+	color: #3c763d;
+	background-color: #dff0d8;
+	border-color: #d6e9c6;
 }
