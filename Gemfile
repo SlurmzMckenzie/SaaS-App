@@ -58,3 +58,6 @@ gem 'figaro', '1.0.0'
 
 # Use Ruby Lint to Lint Code
 gem 'ruby-lint'
+
+# User paperclip for file attachments
+gem 'paperclip', '4.2.1'
