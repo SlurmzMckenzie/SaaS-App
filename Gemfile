@@ -55,3 +55,6 @@ gem 'stripe', '1.16.1'
 
 # Use Figaro to hide secret keys
 gem 'figaro', '1.0.0'
+
+# Use Ruby Lint to Lint Code
+gem 'ruby-lint'
