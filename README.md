@@ -1,4 +1,4 @@
-== README
+# README
 
 This web app was built as a learning project.
 
