@@ -1,29 +1,32 @@
 == README
 
-Coder Manual project
-subscription based web app
-https://calm-atoll-7054.herokuapp.com/
+This web app was built as a learning project.
 
-Things you may want to cover:
+Application is built primarily using *Ruby, Rails, Bootstrap and the Stripe API*
 
-* Ruby version
+## Features
 
-* System dependencies
+The application features
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Authentication using the Devise Gem
+* File attachments for user profile pictures using the Paperclip Gem
+* Stripe integration using the Stripe API
+* Pro features only available on the paid subscription account
+* User profiles
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+## Preview
+
+You can preview the app at: https://calm-atoll-7054.herokuapp.com/
+
+To test the Stripe API integration and the Pro account features Use 4111 1111 1111 1111 as the credit card number which will validate in the Stripe Sandbox.
+
+## Installation
+
+To install you can simply clone the repsository and run the Rails server in the root directory
+
+
+
+
+
+
