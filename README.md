@@ -19,7 +19,7 @@ The application features
 
 You can preview the app at: https://calm-atoll-7054.herokuapp.com/
 
-To test the Stripe API integration and the Pro account features Use **4111 1111 1111 1111** as the credit card number which will validate in the Stripe Sandbox.
+To test the Stripe API integration and the Pro account features use **4111 1111 1111 1111** as the credit card number which will validate in the Stripe Sandbox.
 
 ## Installation
 
